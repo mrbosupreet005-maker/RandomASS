@@ -1,0 +1,15 @@
+#card{
+    display: flex;
+    padding: 3%;
+}
+.card-img{
+    height: 200px;
+}
+.img-div{
+    margin-left: 3%;
+}
+.vdo-sec{
+     display: flex;
+    padding: 3%;
+    
+}
